@@ -13,4 +13,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+mod mods
+
 ## How To Contribute
+
+demos demos
