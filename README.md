@@ -17,6 +17,8 @@ mod mods
 
 ## How To Contribute
 
+Pls fork the repo
+
 demos demos
 
 ### Copyright
