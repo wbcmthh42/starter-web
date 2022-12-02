@@ -18,3 +18,7 @@ mod mods
 ## How To Contribute
 
 demos demos
+
+### Copyright
+
+2022 Git Training
